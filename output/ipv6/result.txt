@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-26 06:57:39,https://stream1.freetv.fun/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8$订阅源
+2025-08-26 18:58:34,https://stream1.freetv.fun/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/e87ac64457c976111fc8524f11c25da508b807c29647c571b45ab13a609917c2.m3u8$订阅源
@@ -212,6 +212,7 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
+香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 浙江卫视,https://stream1.freetv.fun/2e3a01b886780ceca10b44bb6cdb57413757275a6fdcb083800db996bc2f81e3.m3u8$订阅源
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$订阅源
@@ -583,6 +584,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源
+香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.m3u8$订阅源
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
